@@ -4,7 +4,7 @@ import './header.scss';
 const Header = ()=> {
  return(
     <div className='header'>
-        <Link to="/">
+        <Link to="/mikescratch">
             <div className='logo'></div>
         </Link>
         <div className='menu'> 
