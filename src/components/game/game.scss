@@ -1,0 +1,14 @@
+.game{
+    display: flex;
+    flex-direction: column;
+    padding: 50px;
+    cursor: pointer;
+    .nkar{
+        height: 400px;
+        width: 300px;
+        border-radius: 15px;
+        background-size: cover;
+        background-position: center;
+    }
+
+}
