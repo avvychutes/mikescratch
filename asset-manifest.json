@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/mikescratch/static/css/main.10ee097e.css",
+    "main.js": "/mikescratch/static/js/main.3164e4bb.js",
+    "static/js/787.aad5224b.chunk.js": "/mikescratch/static/js/787.aad5224b.chunk.js",
+    "static/media/flappy.gif": "/mikescratch/static/media/flappy.bb4a8a3719c5fc73c49a.gif",
+    "static/media/flappy.png": "/mikescratch/static/media/flappy.cad01c81fdf279805275.png",
+    "static/media/MV5BMGI5YjY5MTUtZDBkOC00ZWMyLTk0OGEtN2Q1YjE3NWY3NzA4XkEyXkFqcGdeQXVyNTgyNTA4MjM@._V1_.jpg": "/mikescratch/static/media/MV5BMGI5YjY5MTUtZDBkOC00ZWMyLTk0OGEtN2Q1YjE3NWY3NzA4XkEyXkFqcGdeQXVyNTgyNTA4MjM@._V1_.90f13cc559dcbc6b24ee.jpg",
+    "static/media/maze.jpg": "/mikescratch/static/media/maze.730112759f52f15afcd3.jpg",
+    "static/media/tic.png": "/mikescratch/static/media/tic.88bc6c8df2742ebee613.png",
+    "static/media/unnamed (1).png": "/mikescratch/static/media/unnamed (1).dcf339a36e42e5d1996a.png",
+    "static/media/Screenshot 2023-07-18 191153.png": "/mikescratch/static/media/Screenshot 2023-07-18 191153.4d1658f8ca2911e6b627.png",
+    "static/media/360_F_195115692_wh4bwByEhU0JgCP7uCSzR59C7hoLzVqm.jpg": "/mikescratch/static/media/360_F_195115692_wh4bwByEhU0JgCP7uCSzR59C7hoLzVqm.9150619f6e72de67010b.jpg",
+    "index.html": "/mikescratch/index.html",
+    "main.10ee097e.css.map": "/mikescratch/static/css/main.10ee097e.css.map",
+    "main.3164e4bb.js.map": "/mikescratch/static/js/main.3164e4bb.js.map",
+    "787.aad5224b.chunk.js.map": "/mikescratch/static/js/787.aad5224b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.10ee097e.css",
+    "static/js/main.3164e4bb.js"
+  ]
+}
